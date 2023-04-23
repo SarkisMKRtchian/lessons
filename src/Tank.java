@@ -4,7 +4,9 @@ public class Tank {
     public void goForward(int pos){
         this.position += pos;
     }
-
+    public void newFinc(){
+        
+    }
     public void goBackward(int pos){
         this.position -= pos;
     }
